@@ -1,7 +1,7 @@
-/*Program: Ocean Levels asiimnet
+/*Program: car caculator asiimnet
     Programmer: Taif
     Date: 09/25/2025
-    Description: Assingmet caculator
+    Description: car assimnent
     */
 
 #include <iostream>
